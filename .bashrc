@@ -119,4 +119,5 @@ fi
 # Alias that to do exercises for MIT 6.NULL
 alias dc="cd"
 alias tl="tmux ls"
+# Alias for move to windows direactory
 alias cdd="cd /mnt/d/'study material'"
